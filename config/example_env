@@ -1,0 +1,11 @@
+# rc95 30/07/2022 04:06
+
+# credenciales SQL
+SERVER="localhost"
+DB_NAME="db-test"
+DB_USER="user-test"
+DB_PWD="user-test-password-123456"
+
+# otras credenciale
+USER="ejemplo"
+PWD="ejemplo-password"
